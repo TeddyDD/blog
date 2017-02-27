@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on TeddyDD&#39;s blog</title>
+    <link>http://teddydd.me/tags/english/index.xml</link>
+    <description>Recent content in English on TeddyDD&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/teddydd&#34;&gt;Daniel Lewan&lt;/a&gt; 2017</copyright>
+    <atom:link href="http://teddydd.me/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Blog</title>
+      <link>http://teddydd.me/post/new-blog/</link>
+      <pubDate>Wed, 22 Feb 2017 12:54:18 +0100</pubDate>
+      
+      <guid>http://teddydd.me/post/new-blog/</guid>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;m Daniel and this is my new blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;OK, maybe not so new. I had a blog on &lt;a href=&#34;http://teddydd-dev.tumblr.com/&#34;&gt;Tumblr&lt;/a&gt; about my gamedev adventures but it was not updated frequently.
+I decided to move it to GitHub pages and start fresh using more lightweight Hugo static generator.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to write posts in English and in Polish. First tag will always be language. I&amp;rsquo;m going to copy
+posts from my Tumblr blog here, but that&amp;rsquo;s not a priority.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to write about programming, my gamedev stuff, my projects, nice tools I use but also about art and other
+things.&lt;/p&gt;
+
+&lt;h1 id=&#34;why-hugo&#34;&gt;Why Hugo&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is static website generator written by spf13 in Go. It&amp;rsquo;s singe binary
+executable, pretty fast and easy to use. There is lot of free &lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;themes&lt;/a&gt;
+available. As person without experience in webdev I was able to pick and tweak the theme without
+a hassle.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Superheroes</title>
+      <link>http://teddydd.me/post/superheroes/</link>
+      <pubDate>Sun, 13 Nov 2016 19:40:55 +0100</pubDate>
+      
+      <guid>http://teddydd.me/post/superheroes/</guid>
+      <description>&lt;p&gt;Last Thursday my lecturer and friend &lt;em&gt;Tomasz Wlaźlak&lt;/em&gt; has defended his PhD thesis „Games as inspirations in art”
+(original title ,,Gry jako inspiracje w twórczości artystycznej&amp;rdquo;). Defence of the dissertation and exhibition
+took place in gallery of modern art - &lt;em&gt;Centrum Sztuki Współczesnej&lt;/em&gt; in Toruń  (examinations for PhD degree is public in Poland).&lt;/p&gt;
+
+&lt;p&gt;The exhibition consist of four arcade games where visitors can play simple games designed by the author.
+Games are about people known from unusual, superhuman abilities. Gameplay is inspired with iconic classic games like Tapper.
+Tomasz Wlaźlak asked me to help with programming side of creating these games.&lt;/p&gt;
+
+&lt;p&gt;BTW: &lt;a href=&#34;https://web.facebook.com/Tomasz-Wlazlak-159585950803560/?fref=ts&#34;&gt;Here&lt;/a&gt; you can find FB page of Tomasz Wlaźlak.&lt;/p&gt;
+
+&lt;h1 id=&#34;photos&#34;&gt;Photos&lt;/h1&gt;
+
+
+&lt;img src=https://68.media.tumblr.com/a2da443682ec22e5d538d02e7a3715c9/tumblr_inline_oglcsbqs3k1rhupbn_1280.jpg alt=baba data-action=&#34;zoom&#34;&gt;
+
+
+
+&lt;img src=https://68.media.tumblr.com/9ccd31b94995bed7d0e9f550e86a8d3f/tumblr_inline_oglcsjDuZp1rhupbn_1280.jpg alt=hira data-action=&#34;zoom&#34;&gt;
+
+
+
+&lt;img src=https://68.media.tumblr.com/1cd10859c09361cee3be6a13c2c829a3/tumblr_inline_oglcsqAbVn1rhupbn_1280.jpg alt=oyama data-action=&#34;zoom&#34;&gt;
+
+
+
+&lt;img src=https://68.media.tumblr.com/1cd10859c09361cee3be6a13c2c829a3/tumblr_inline_oglcsqAbVn1rhupbn_1280.jpg alt=pio data-action=&#34;zoom&#34;&gt;
+
+
+&lt;h1 id=&#34;technical-background&#34;&gt;Technical background&lt;/h1&gt;
+
+&lt;p&gt;Games are created in Godot (of course) and running on normal PCs.
+Whole project is quite small (2Kloc total) and simple. Buttons and joysticks are plugged to micro controllers
+that acts as gamepad from OS perspective. Here you can see WIP video how it works in practise (Sorry for quality)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/ZM45ezDCMgE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
+
+&lt;p&gt;
+&lt;img src=https://68.media.tumblr.com/81bfe71ffc6af61b4d839432d0933a73/tumblr_inline_ogldmyouqt1rhupbn_1280.png alt=baba data-action=&#34;zoom&#34;&gt;
+
+
+&lt;img src=https://68.media.tumblr.com/c12c7d95aab33a24b6ac780df5ee072a/tumblr_inline_ogldmy56cw1rhupbn_1280.png alt=hira data-action=&#34;zoom&#34;&gt;
+
+
+&lt;img src=https://68.media.tumblr.com/f4d58444a830b8296781c2f69b49a18f/tumblr_inline_ogldmyB4xK1rhupbn_1280.png alt=pio data-action=&#34;zoom&#34;&gt;
+
+
+&lt;img src=https://68.media.tumblr.com/ca4760380dc6a92c76ca3796fc7d517b/tumblr_inline_ogldmziP841rhupbn_1280.png alt=oyama data-action=&#34;zoom&#34;&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

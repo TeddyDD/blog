@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on TeddyDD&#39;s blog</title>
+    <link>http://teddydd.me/tags/about-me/index.xml</link>
+    <description>Recent content in About Me on TeddyDD&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/teddydd&#34;&gt;Daniel Lewan&lt;/a&gt; 2017</copyright>
+    <atom:link href="http://teddydd.me/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daniel Lewan - TeddyDD</title>
+      <link>http://teddydd.me/about/</link>
+      <pubDate>Mon, 20 Feb 2017 18:53:31 +0100</pubDate>
+      
+      <guid>http://teddydd.me/about/</guid>
+      <description>&lt;p&gt;Hi. The name’s Daniel and I study at Nicolas Copernicus University in Toruń, Poland.
+I’m interested in programming, gamedev, art and astronomy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

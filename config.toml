@@ -1,0 +1,31 @@
+baseurl = "http://teddydd.me/"
+languageCode = "en"
+title = "TeddyDD's blog"
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/teddydd\">Daniel Lewan</a> 2017"
+disqusShortname = "2weeksgame"
+googleAnalytics = ""
+canonifyURLs = true
+
+[taxonomies]
+tag = "tags"
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/teddydd"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://keybase.io/teddydd"
+fa_icon = "fa-key"
+
+[[params.social]]
+url = "https://twitter.com/stillforfun"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://teddydd.me/post/new-blog/</loc>
+    <lastmod>2017-02-22T12:54:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://teddydd.me/about/</loc>
+    <lastmod>2017-02-20T18:53:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://teddydd.me/post/superheroes/</loc>
+    <lastmod>2016-11-13T19:40:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://teddydd.me/tags/about-me/</loc>
+    <lastmod>2017-02-20T18:53:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://teddydd.me/tags/english/</loc>
+    <lastmod>2017-02-22T12:54:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://teddydd.me/tags/from_tumblr/</loc>
+    <lastmod>2016-11-13T19:40:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://teddydd.me/tags/meta/</loc>
+    <lastmod>2017-02-22T12:54:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://teddydd.me/post/</loc>
+    <lastmod>2017-02-22T12:54:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://teddydd.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://teddydd.me/</loc>
+    <lastmod>2017-02-22T12:54:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
