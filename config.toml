@@ -1,7 +1,8 @@
-baseURL = "http://example.com/"
+baseURL = "http://teddydd.me/"
 languageCode = "en-us"
 title = "TeddyDD"
 theme = "minimal"
+canonifyURLs = true
 
 [params]
     author = "Daniel Lewan"
