@@ -1,4 +1,4 @@
-baseURL = "http://teddydd.me/"
+baseURL = "https://teddydd.me/"
 languageCode = "en-us"
 title = "TeddyDD"
 theme = "minimal"
