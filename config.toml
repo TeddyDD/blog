@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "TeddyDD"
 theme = "minimal"
 canonifyURLs = true
+enableEmoji = true
 
 [params]
     author = "Daniel Lewan"
@@ -36,21 +37,26 @@ canonifyURLs = true
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
+    url = "/post/index.xml"
+    name = "rss"
+    weight = 1
+
+[[menu.icon]]
     url = "mailto:vision360.daniel@gmail.com"
     name = "envelope-o"
-    weight = 1
+    weight = 3
 
 [[menu.icon]]
     url = "https://github.com/TeddyDD/"
     name = "github"
-    weight = 2
+    weight = 6
 
 [[menu.icon]]
     url = "https://twitter.com/stillforfun/"
     name = "twitter"
-    weight = 3
+    weight = 9
 
 [[menu.icon]]
     url = "https://www.keybase.io/teddydd"
     name = "key"
-    weight = 5
+    weight = 12
