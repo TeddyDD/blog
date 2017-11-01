@@ -1,7 +1,7 @@
 ---
 title: "Hugo Wiki"
 date: 2017-11-01T12:49:42+01:00
-draft: true
+draft: false
 categories: "project"
 tags: ["workflow", "webdev"]
 description: "Hugo theme"
