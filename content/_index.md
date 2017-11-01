@@ -2,8 +2,6 @@
 date = "2017-02-20T18:53:31+01:00"
 title = "Daniel Lewan - TeddyDD"
 tags = ["about-me"]
-nocomment = false
-
 +++
 
 Hi. The name’s Daniel. I'm visual artist and programmer

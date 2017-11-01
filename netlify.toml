@@ -1,0 +1,11 @@
+[build]
+  command = "hugo --theme=hugo-wiki"
+  publish = "public"
+
+
+[context.production.environment]
+  HUGO_VERSION = "0.30"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.30"
+  command = "hugo -D --theme=hugo-wiki"
