@@ -2,16 +2,16 @@
 date = "2016-11-13T19:40:55+01:00"
 title = "Superheroes"
 
-tags = ["English", "from_tumblr"]
+tags = ["tumblr", "gamedev"]
 
 +++
 
-Last Thursday my lecturer and friend *Tomasz Wlaźlak* has defended his PhD thesis „Games as inspirations in art” 
-(original title ,,Gry jako inspiracje w twórczości artystycznej"). Defence of the dissertation and exhibition 
+Last Thursday my lecturer and friend *Tomasz Wlaźlak* has defended his PhD thesis „Games as inspirations in art”
+(original title ,,Gry jako inspiracje w twórczości artystycznej"). Defence of the dissertation and exhibition
 took place in gallery of modern art - *Centrum Sztuki Współczesnej* in Toruń <!--more--> (examinations for PhD degree is public in Poland).
 
-The exhibition consist of four arcade games where visitors can play simple games designed by the author. 
-Games are about people known from unusual, superhuman abilities. Gameplay is inspired with iconic classic games like Tapper. 
+The exhibition consist of four arcade games where visitors can play simple games designed by the author.
+Games are about people known from unusual, superhuman abilities. Gameplay is inspired with iconic classic games like Tapper.
 Tomasz Wlaźlak asked me to help with programming side of creating these games.
 
 BTW: [Here](https://web.facebook.com/Tomasz-Wlazlak-159585950803560/?fref=ts) you can find FB page of Tomasz Wlaźlak.
@@ -28,8 +28,8 @@ BTW: [Here](https://web.facebook.com/Tomasz-Wlazlak-159585950803560/?fref=ts) yo
 
 # Technical background
 
-Games are created in Godot (of course) and running on normal PCs. 
-Whole project is quite small (2Kloc total) and simple. Buttons and joysticks are plugged to micro controllers 
+Games are created in Godot (of course) and running on normal PCs.
+Whole project is quite small (2Kloc total) and simple. Buttons and joysticks are plugged to micro controllers
 that acts as gamepad from OS perspective. Here you can see WIP video how it works in practise (Sorry for quality)
 
 {{< youtube ZM45ezDCMgE >}}

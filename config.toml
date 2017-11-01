@@ -1,62 +1,35 @@
 baseURL = "https://teddydd.me/"
 languageCode = "en-us"
 title = "TeddyDD"
-theme = "minimal"
+theme = "hugo-wiki"
 canonifyURLs = true
 enableEmoji = true
 
+pygmentsCodeFences = true
+pygmentsStyle = "manni"
+copyright = "Daniel Lewan 2017"
+# RSSLink = "rss"
+
+[author]
+    name = "Daniel Lewan"
+
 [params]
-    author = "Daniel Lewan"
-    description = "Personal blog"
-    githubUsername = "TeddyDD"
-    accent = "#16ab6a"
-    showBorder = true
-    backgroundColor = "#f0f0f0"
-    font = "Fira Sans" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "atom-one-light"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    logo = "/logo.svg"
 
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+sectionPagesMenu = "main"
+[[ menu.main ]]
+   name="Keybase"
+   url="https://keybase.io/teddydd"
+   weight = 300
 
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 2
+[[ menu.main ]]
+   name="Posts"
+   url="/post/"
+   identifier="post"
+   weight = -300
 
-[[menu.main]]
-    url = "/project/"
-    name = "Projects"
-    weight = 3
-
-# Social icons to be shown on the right-hand side of the navigation bar
-# The "name" field should match the name of the icon to be used
-# The list of available icons can be found at http://fontawesome.io/icons/
-
-[[menu.icon]]
-    url = "/post/index.xml"
-    name = "rss"
-    weight = 1
-
-[[menu.icon]]
-    url = "mailto:vision360.daniel@gmail.com"
-    name = "envelope-o"
-    weight = 3
-
-[[menu.icon]]
-    url = "https://github.com/TeddyDD/"
-    name = "github"
-    weight = 6
-
-[[menu.icon]]
-    url = "https://twitter.com/stillforfun/"
-    name = "twitter"
-    weight = 9
-
-[[menu.icon]]
-    url = "https://www.keybase.io/teddydd"
-    name = "key"
-    weight = 12
+[[ menu.main ]]
+   name="Wiki"
+   url="/wiki/"
+   identifier="wiki"
+   weight = -200
