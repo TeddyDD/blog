@@ -15,6 +15,7 @@ I strive to use only open source software.
 You can find me on other platforms:
 
 - [Keybase](http://keybase.io/teddydd)
+- [Twitter](https://twitter.com/stillforfun/)
 - [Itch](https://teddydd.itch.io/)
 - [Reddit](https://www.reddit.com/user/teddydd93)
 - [Github](https://github.com/TeddyDD)
