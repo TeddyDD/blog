@@ -18,10 +18,11 @@ GoogleAnalytics = 'UA-68967687-3'
     logo = "/logo.svg"
 
 sectionPagesMenu = "main"
+
 [[ menu.main ]]
-   name="Keybase"
-   url="https://keybase.io/teddydd"
-   weight = 300
+   name="RSS"
+   url="/index.xml"
+   weight = 200
 
 [[ menu.main ]]
    name="Posts"
