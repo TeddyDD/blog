@@ -9,3 +9,17 @@
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.30"
   command = "hugo -D --theme=hugo-wiki"
+
+
+[[headers]]
+  for = "/*"
+[headers.values]
+  Link = "</style.min.css>, rel=preload; as=stylesheet"
+[[headers]]
+  for = "/logo.svg"
+[headers.values]
+  Cache-Control = "max-age=6048000"
+[[headers]]
+  for = "/favicon*"
+[headers.values]
+  Cache-Control = "max-age=2592000"
