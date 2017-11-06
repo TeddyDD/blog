@@ -16,6 +16,7 @@ GoogleAnalytics = 'UA-68967687-3'
 
 [params]
     logo = "/logo.svg"
+    RealFaviconGenerator = true
 
 sectionPagesMenu = "main"
 
