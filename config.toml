@@ -2,7 +2,8 @@ baseURL = "https://teddydd.me/"
 languageCode = "en-us"
 title = "TeddyDD"
 theme = "hugo-wiki"
-canonifyURLs = true
+canonifyURLs = false
+relativeURLs = true
 enableEmoji = true
 
 pygmentsCodeFences = true
