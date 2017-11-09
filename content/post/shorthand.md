@@ -1,7 +1,7 @@
 +++
 title = "Shorthand"
 date = 2017-11-09T19:01:10+01:00
-draft = true
+draft = false
 tags = ["visual"]
 +++
 
