@@ -12,6 +12,13 @@ I'm interested in creating interdisciplinary art combining traditional and digit
 techniques, gamedev and programming. I consider myself *FOSS* advocate and
 I strive to use only open source software.
 
+My website is divided into two sections.
+The **Log** is place where I will post about thins I'm working on, interesting events in my area or other articles that are related to *time*.
+It's not really a *blog*, more like logbook or my own twitter without characters limit.
+
+The **Wiki** contains **projects** that are at advanced or finished stage. There is also **notes** section where I will write about
+my workflow, tools, projects and stuff not created by me.
+
 You can find me on other platforms:
 
 - [Keybase](http://keybase.io/teddydd)

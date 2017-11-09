@@ -27,7 +27,7 @@ sectionPagesMenu = "main"
    weight = 200
 
 [[ menu.main ]]
-   name="Posts"
+   name="Log"
    url="/post/"
    identifier="post"
    weight = -300

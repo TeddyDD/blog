@@ -18,7 +18,7 @@ There is very specific set of requirements I'm trying to meet:
 - should be possible to use on smartphone by written characters using thumb and dedicated keyboard app
 - most common letters will have the simplest characters
 
-### Sketches
+### Sketch
 
 First sketch based on impressions rather than research. I was playing
 with shapes, testing how do they feel when written fast. Next steep will be
