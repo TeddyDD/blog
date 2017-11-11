@@ -18,13 +18,13 @@ BTW: [Here](https://web.facebook.com/Tomasz-Wlazlak-159585950803560/?fref=ts) yo
 
 # Photos
 
-{{< ig "https://68.media.tumblr.com/a2da443682ec22e5d538d02e7a3715c9/tumblr_inline_oglcsbqs3k1rhupbn_1280.jpg" "baba" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_oglcsbqs3k1rhupbn_1280.jpg" "baba" >}}
 
-{{< ig "https://68.media.tumblr.com/9ccd31b94995bed7d0e9f550e86a8d3f/tumblr_inline_oglcsjDuZp1rhupbn_1280.jpg" "hira" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_oglcsjDuZp1rhupbn_1280.jpg" "hira" >}}
 
-{{< ig "https://68.media.tumblr.com/1cd10859c09361cee3be6a13c2c829a3/tumblr_inline_oglcsqAbVn1rhupbn_1280.jpg" "oyama" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_oglcsqAbVn1rhupbn_1280.jpg" "oyama" >}}
 
-{{< ig "https://68.media.tumblr.com/1cd10859c09361cee3be6a13c2c829a3/tumblr_inline_oglcsqAbVn1rhupbn_1280.jpg" "pio" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_oglcsqAbVn1rhupbn_1280.jpg" "pio" >}}
 
 # Technical background
 
@@ -36,7 +36,7 @@ that acts as gamepad from OS perspective. Here you can see WIP video how it work
 
 # Screenshots
 
-{{< ig "https://68.media.tumblr.com/81bfe71ffc6af61b4d839432d0933a73/tumblr_inline_ogldmyouqt1rhupbn_1280.png" "baba" >}}
-{{< ig "https://68.media.tumblr.com/c12c7d95aab33a24b6ac780df5ee072a/tumblr_inline_ogldmy56cw1rhupbn_1280.png" "hira" >}}
-{{< ig "https://68.media.tumblr.com/f4d58444a830b8296781c2f69b49a18f/tumblr_inline_ogldmyB4xK1rhupbn_1280.png" "pio" >}}
-{{< ig "https://68.media.tumblr.com/ca4760380dc6a92c76ca3796fc7d517b/tumblr_inline_ogldmziP841rhupbn_1280.png" "oyama" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_ogldmyouqt1rhupbn_1280.png" "baba" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_ogldmy56cw1rhupbn_1280.png" "hira" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_ogldmyB4xK1rhupbn_1280.png" "pio" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_ogldmziP841rhupbn_1280.png" "oyama" >}}

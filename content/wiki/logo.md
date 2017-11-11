@@ -10,15 +10,15 @@ categories = "project"
 It's started at first year of university. We had assignment for sculpture classes to create sculpture made of paper.
 I made this geometric abstract form.
 
-{{< ig "https://img00.deviantart.net/dc28/i/2017/310/8/7/logo_by_teddydd-dbsxu24.jpg" "sculpture" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/logo_by_teddydd-dbsxu24.jpg" "sculpture" >}}
 
 After few years I tried to recycle 3d model of this sculpture for something else. I realized it looks interesting when shaded with black and white.
 
-{{< ig "https://i.imgur.com/DoYmSs5.png" "simple" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/DoYmSs5.png" "simple" >}}
 
 I like to experiment with this form, transform it and reuse.
 
-{{< ig "https://img00.deviantart.net/7bf3/i/2017/310/d/d/logo_2_by_teddydd-dbsxwhj.png" "logo-render" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/ddydd-dbsxwhj.png" "logo-render" >}}
 
 ---
 

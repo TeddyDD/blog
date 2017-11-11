@@ -39,19 +39,19 @@ cfdg -s 1024 -a 256 script.cfdg -o some_dir/frm%f.png
 
 ## Some of my works
 
-{{< ig "https://i.imgur.com/x6bYNZc.png" "" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/x6bYNZc.png" "" >}}
 
-<!-- {{< ig "https://i.imgur.com/MVXIBFy.png" "" >}} -->
+<!-- {{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/MVXIBFy.png" "" >}} -->
 
-{{< ig "https://i.imgur.com/ZZImkV5.png" "" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/ZZImkV5.png" "" >}}
 
-{{< ig "https://i.imgur.com/60Mo7fh.png" "" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/60Mo7fh.png" "" >}}
 
-{{< ig "https://i.imgur.com/jLctEHL.png" "" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/jLctEHL.png" "" >}}
 
-{{< ig "https://i.imgur.com/B2CyImu.png" "" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/B2CyImu.png" "" >}}
 
 
-<!-- {{< ig "https://i.imgur.com/Jg2QFC8.png" "" >}} -->
+<!-- {{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/Jg2QFC8.png" "" >}} -->
 
-<!-- {{< ig "https://i.imgur.com/96t5VQB.png" "" >}} -->
+<!-- {{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/96t5VQB.png" "" >}} -->
