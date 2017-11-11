@@ -31,4 +31,4 @@ You can find me on other platforms:
 
 ---
 
-![](https://i.imgur.com/a43RFgt.png)
+![](https://teddy.nyc3.digitaloceanspaces.com/blog/a43RFgt.png)
