@@ -7,6 +7,7 @@ tags = ["visual"]
 categories = "project"
 +++
 
+
 It's started at first year of university. We had assignment for sculpture classes to create sculpture made of paper.
 I made this geometric abstract form.
 
@@ -18,7 +19,7 @@ After few years I tried to recycle 3d model of this sculpture for something else
 
 I like to experiment with this form, transform it and reuse.
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/ddydd-dbsxwhj.png" "logo-render" >}}
+{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/logo_2_by_teddydd-dbsxwhj.png" "logo-render" >}}
 
 ---
 
