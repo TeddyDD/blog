@@ -5,7 +5,7 @@ draft = true
 tags = ["privacy", "pl", "tutorial"]
 +++
 <!-- Local Variables: -->
-<!-- ispell-dictionary: pl -->
+<!-- ispell-dictionary: polish -->
 <!-- End: -->
 
 Ostatnio na zajęciach wywiązała się rozmowa na temat prywatności w sieci. Zdałem
@@ -87,5 +87,18 @@ następujące ustawienia:
 Następnie klikamy u góry strony w przycisk **Aktualizuj**. Zrobione!
 
 ## Druga linia obrony
+
+Kolejnym zagrożeniem dla prywatności są wszelkiego rodzaju skrypty śledzące.
+O ich obecności nie jesteśmy w żaden sposób informowani. Przykład takiego skryptu:
+Google Analytics. Zbiera on informacje ile osób i kiedy wchodziło na daną stronę.
+
+Do zablokowania tego typu skryptów użyjemy kolejnego dodatku: **Privacy Badger**
+
+- [Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+
+
+
+## Wyłączanie blokowania
 
 <br>
