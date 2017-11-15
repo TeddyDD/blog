@@ -21,7 +21,7 @@ my workflow, tools, projects and stuff not created by me.
 
 You can find me on other platforms:
 
-- [Keybase](http://keybase.io/teddydd)
+- [Keybase](https://keybase.io/teddydd)
 - [Twitter](https://twitter.com/stillforfun/)
 - [Rotonde](https://louis.center/p2p-social-networking/) at `dat://4c8bb42720a04d3d207f9fdfc763827a74c1b59a447c35334401b01c0c0d4fca/`
 - [DeviantArt](https://teddydd.deviantart.com/)
