@@ -18,13 +18,13 @@ BTW: [Here](https://web.facebook.com/Tomasz-Wlazlak-159585950803560/?fref=ts) yo
 
 # Photos
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_oglcsbqs3k1rhupbn_1280.jpg" "baba" >}}
+{{< ig "/images/superheroes-foto1.jpg" "photo1" >}}
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_oglcsjDuZp1rhupbn_1280.jpg" "hira" >}}
+{{< ig "/images/superheroes-foto2.jpg" "photo2" >}}
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_oglcsqAbVn1rhupbn_1280.jpg" "oyama" >}}
+{{< ig "/images/superheroes-foto3.jpg" "photo3" >}}
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_oglcsqAbVn1rhupbn_1280.jpg" "pio" >}}
+{{< ig "/images/superheroes-foto4.jpg" "photo4" >}}
 
 # Technical background
 
@@ -36,7 +36,7 @@ that acts as gamepad from OS perspective. Here you can see WIP video how it work
 
 # Screenshots
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_ogldmyouqt1rhupbn_1280.png" "baba" >}}
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_ogldmy56cw1rhupbn_1280.png" "hira" >}}
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_ogldmyB4xK1rhupbn_1280.png" "pio" >}}
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/tumblr_inline_ogldmziP841rhupbn_1280.png" "oyama" >}}
+{{< ig "/images/superheroes-screen1.png" "screen1" >}}
+{{< ig "/images/superheroes-screen2.png" "screen2" >}}
+{{< ig "/images/superheroes-screen3.png" "screen3" >}}
+{{< ig "/images/superheroes-screen4.png" "screen4" >}}
