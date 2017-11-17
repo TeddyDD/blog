@@ -24,7 +24,7 @@ First sketch based on impressions rather than research. I was playing
 with shapes, testing how do they feel when written fast. Next steep will be
 matching shapes with real letters.
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/8tvwE4U.png" "sketch 1" >}}
+{{< ig "/images/shorthand.png" "sketch 1" >}}
 
 ### Most common letters (in Polish)
 
