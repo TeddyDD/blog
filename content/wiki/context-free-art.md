@@ -39,19 +39,18 @@ cfdg -s 1024 -a 256 script.cfdg -o some_dir/frm%f.png
 
 ## Some of my works
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/x6bYNZc.png" "" >}}
+{{< ig "/images/cfdg1.png" "" >}}
 
-<!-- {{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/MVXIBFy.png" "" >}} -->
+<!-- {{< ig "/images/MVXIBFy.png" "" >}} -->
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/ZZImkV5.png" "" >}}
+{{< ig "/images/cfdg5.png" "" >}}
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/60Mo7fh.png" "" >}}
+{{< ig "/images/cfdg3.png" "" >}}
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/jLctEHL.png" "" >}}
+{{< ig "/images/cfdg4.png" "" >}}
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/B2CyImu.png" "" >}}
+{{< ig "/images/cfdg2.png" "" >}}
 
+<!-- {{< ig "/images/Jg2QFC8.png" "" >}} -->
 
-<!-- {{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/Jg2QFC8.png" "" >}} -->
-
-<!-- {{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/96t5VQB.png" "" >}} -->
+<!-- {{< ig "/images/96t5VQB.png" "" >}} -->
