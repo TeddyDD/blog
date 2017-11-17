@@ -97,6 +97,21 @@ Do zablokowania tego typu skryptów użyjemy kolejnego dodatku: **Privacy Badger
 - [Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 
+Tutaj nie trzeba nic skonfigurować. Warto jednak zapoznać się z menu Privacy Badger.
+
+## Lisek
+
+Używajcie Firefoxa. Serio. Celem "statutowym" Mozilli jest dbanie od prywatność
+użytkowników. Celem Google jest zarabianie. Między innymi na danych zebranych przez Chrome.
+
+> Mozilla to organizacja non-profit wspierająca Firefoksa, oryginalną alternatywną przeglądarkę. Tworzymy produkty i zasady służące użytkownikom Internetu, nie zyskom. 
+
+Parę miesięcy temu nie ośmieliłbym się sugerować komukolwiek używania Firefoksa.
+Do wersji 55 FF działał strasznie wolno. To jeden z powodów masowej migracji na Chrome.
+
+Kilka dni temu Mozilla wydała Firefoxa 57. To jena z największych aktualizacjii do tej pory.
+Poza nowym interfejsem autorzy *drastycznie* poprawili wydajność. Obecnie Firefox
+**dorównuje wydajnością Chrome**. I nie tworzy go największy gigant internetowej reklamy...
 
 
 ## Wyłączanie blokowania
