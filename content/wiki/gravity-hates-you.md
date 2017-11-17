@@ -7,7 +7,7 @@ tags: ["gamedev"]
 description: "my first game"
 ---
 
-![screen1](https://teddy.nyc3.digitaloceanspaces.com/blog/pKxwzfN.png)
+![screen1](/images/gravity-screen1.png)
 
 *Gravity Hates You* is fist game I ever **finished**.
 It was made in about 14 days using [Godot Engine](/wiki/godot-engine/).
@@ -18,7 +18,7 @@ witch makes navigation troublesome.
 
 Graphics was drawn by my girlfriend - [Katarzyna Hojka](https://kyasarinn.deviantart.com/).
 
-![screen2](https://teddy.nyc3.digitaloceanspaces.com/blog/QLGMQjX.png)
+![screen2](/images/gravity-screen2.png)
 
 ---
 
