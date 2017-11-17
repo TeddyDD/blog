@@ -9,7 +9,7 @@ categories: ["project"]
 
 Who are you?! Go away I’m too old for this. I don’t like to talk about myself. You really want to know, huh? I’m just the owl who spend the whole life in my little house and nothing, you see, NOTHING force me to leave it. Rain? Storm? Phew, you need more to break me. Oh wait… What is it? Tornado?! No way! Oh no, I suppose it’s going to be flood very soon… I guess I have to move my old bones and go to my house and escape. You heard right, me and my house are escaping from here. You don’t believe me? Watch this…
 
-{{< ig "https://teddy.nyc3.digitaloceanspaces.com/blog/734c.png" "screenshot" >}}
+{{< ig "/images/owl-screen.png" "screenshot" >}}
 
 You can play it on [Itch](https://teddydd.itch.io/owld). Here is [LDJAM submission page](https://ldjam.com/events/ludum-dare/39/owld)
 
