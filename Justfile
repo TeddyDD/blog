@@ -1,0 +1,39 @@
+# run hugo server
+preview:
+	hugo serve -D --theme=hugo-wiki --disableFastRender
+	firefox "http://localhost:1313/"
+
+# open website
+open:
+	firefox "https://www.teddydd.me/"
+
+# Show basic stats about website
+@stats:
+	echo "Repo size"
+	du -hs .git
+	echo "website size"
+	hugo --quiet
+	du -hs ./public/
+
+# optimize png images
+optimize:
+	pushd static/images/
+	oxipng -o 4 -i 1 --strip safe *.png
+	popd
+
+update-theme:
+	pushd themes/hugo-wiki/
+	git pull
+	popd
+	git add themes/hugo-wiki/
+
+# check stuff before publish
+test:
+	#!/usr/bin/env fish
+	hugo
+	liche ./public/**.html
+
+# make sure liche is in newest version
+update-liche:
+	go get -u github.com/raviqqe/liche
+
