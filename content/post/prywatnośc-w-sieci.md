@@ -1,7 +1,7 @@
 +++
 title = "Prywatnośc W Sieci"
 date = 2017-11-19T09:31:42+01:00
-draft = true
+draft = false
 tags = ["privacy", "pl", "tutorial"]
 +++
 <!-- Local Variables: -->
@@ -157,7 +157,6 @@ wiedzieć, jak wyłączyć blokowanie reklam dla konkretnej strony.
 
 Firefox na Androidzie obsługuje te same dodatki co wersja na komputery.
 Nie wiem jak wygląda sytuacja z mobilnym Chrome i urządzeniami Apple.
-
 
 ## To tyle
 
