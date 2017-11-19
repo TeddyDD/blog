@@ -1,7 +1,7 @@
 # run hugo server
 preview:
-	hugo serve -D --theme=hugo-wiki --disableFastRender
 	firefox "http://localhost:1313/"
+	hugo serve -D --theme=hugo-wiki --disableFastRender
 
 # open website
 open:
