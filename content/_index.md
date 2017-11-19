@@ -28,6 +28,7 @@ You can find me on other platforms:
 - [Itch](https://teddydd.itch.io/)
 - [Reddit](https://www.reddit.com/user/teddydd93)
 - [Github](https://github.com/TeddyDD)
+- [Facebook](https://www.facebook.com/teddydd93)
 
 ---
 
