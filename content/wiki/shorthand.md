@@ -1,6 +1,6 @@
 +++
 title = "Shorthand"
-description = "experimental Shorthand system"
+description = "experimental writing system"
 date = 2017-11-22T21:04:04+01:00
 draft = false
 tags = ["visual", "research"]
