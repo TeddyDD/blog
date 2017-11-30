@@ -27,6 +27,10 @@ update-theme:
 	popd
 	git add themes/hugo-wiki/
 
+lint FILE:
+	proselint {{FILE}} || true
+	pandoc -s -i {{FILE}} -t plain | languagetool -l en -
+
 # check stuff before publish
 test:
 	#!/usr/bin/env fish
