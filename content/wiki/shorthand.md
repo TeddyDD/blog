@@ -14,11 +14,17 @@ Currently in research/testing phase.
 - *alphabetic* shorthand
 - easy to learn
 - use excising muscle memory if possible
-- visually unambiguous characters 
+- visually unambiguous characters
 - stroke should always end on the right side (can be mirrored for left-handed people)
 - most common letters will have the simplest characters
 
 Most common letters in Polish: `a, i, e, o, n, z, r, s, w`.
+
+## Inspirations
+
+I was inspired to design this after I saw http://wiki.xxiivv.com/#Shorthand
+Shapes are result of experimentation with different stokes, I was looking for something that *feels* natural and easy to write.
+Some shapes was borrowed form Gregg and Teeline systems.
 
 ## Projects
 
@@ -26,7 +32,7 @@ Most common letters in Polish: `a, i, e, o, n, z, r, s, w`.
 
 {{< ig "/images/shorthand.png" "sketch 1" >}}
 
-#### First WIP version 
+#### First WIP version
 
 {{< ig "/images/shorthand1.png" "sketch 2" >}}
 
