@@ -25,6 +25,7 @@ Most common letters in Polish: `a, i, e, o, n, z, r, s, w`.
 I was inspired to design this after I saw http://wiki.xxiivv.com/#Shorthand
 Shapes are result of experimentation with different stokes, I was looking for something that *feels* natural and easy to write.
 Some shapes was borrowed form Gregg and Teeline systems.
+Logo for this project was created in [Dotgrid](https://hundredrabbits.itch.io/dotgrid)
 
 ## Projects
 
