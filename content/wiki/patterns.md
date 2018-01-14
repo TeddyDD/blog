@@ -2,7 +2,7 @@
 title = "Patterns"
 description = "Procedural images in CFDG"
 date = 2018-01-14T23:38:41+01:00
-draft = true
+draft = false
 tags = ["visual"]
 categories = "project"
 +++
