@@ -8,7 +8,7 @@ categories = "project"
 +++
 
 Patterns inspired by procedural alphabets I created during last year.
-Made in [CFDG](/wiki/context-free-art.md).
+Made in [CFDG](/wiki/context-free-art).
 
 
 {{< ig "/images/pattern2.jpg" "pattern 2" >}}
