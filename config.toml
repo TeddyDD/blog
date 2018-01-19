@@ -22,6 +22,11 @@ copyright = "Daniel Lewan 2017"
 sectionPagesMenu = "main"
 
 [[ menu.main ]]
+   name="Ello"
+   url="https://ello.co/teddydd/"
+   weight = 300
+
+[[ menu.main ]]
    name="RSS"
    url="/index.xml"
    weight = 200
