@@ -30,6 +30,7 @@ Requirements:
 - [GDevelop](http://compilgames.net/main-pl.html "compilgames.net/main-pl.html") - it seems to be engine in style of Construct and Multimedia Fusion: uses visual programming and it's quite easy to get started
 - [Ink](https://github.com/inkle/ink) - interactive narration engine with export to HTML5 and json
 - [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) yet another fantasy console
+- [MegaZeux](http://vault.digitalmzx.net/) - MegaZeux is a game creation system originally released in 1994 and still being developed today.
 - [nano JAMMER](https://morgan3d.github.io/nano/) - nano JAMMER is a fantasy console for tiny games with a single page of source code. It is perfect for tweetjams and hobby coding on a busy schedule.
 - [Playscii](http://vectorpoem.com/playscii/) - ASCII art editor and game engine
 - [PuzzleScript](http://www.puzzlescript.net/ "puzzlescript.net/") - HTML5 engine for writing tile-based puzzle games
