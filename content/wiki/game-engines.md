@@ -44,3 +44,7 @@ Requirements:
 - [Superpowers](http://superpowers-html5.com "superpowers-html5.com") - for creating 2d/3d games in HTML5.
 - [Torque 3D](http://torque3d.org/) - 3d game engine
 - [Twine](https://twinery.org/) -  tool for telling interactive, nonlinear stories
+
+## Fantasy Consoles/Computers
+
+There is hady [list](https://github.com/paladin-t/fantasy) by paladin-t. Some of them are FOSS.
