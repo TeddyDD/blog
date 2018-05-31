@@ -28,6 +28,7 @@ Requirements:
 - [Blender Game Engine](https://docs.blender.org/manual/de/dev/game_engine/introduction.html "https://docs.blender.org/manual/de/dev/game_engine/introduction.html") - built in into Blender -  3D creation suite.
 - [Catroid](https://github.com/Catrobat/Catroid "https://github.com/Catrobat/Catroid") also known as PocketCode is similar to Scratch but it allows creating games on Android device
 - [Game Editor](http://game-editor.com/Main_Page "game-editor.com/Main_Page") - I don't know what to say about this one. It looks pretty old school and cool at the same time. Just take a look
+- [Game Pencil Engine](https://pawbyte.itch.io/game-pencil-engine) - multi-platform 2d game engine in development
 - [GDevelop](http://compilgames.net/main-pl.html "compilgames.net/main-pl.html") - it seems to be engine in style of Construct and Multimedia Fusion: uses visual programming and it's quite easy to get started
 - [Ink](https://github.com/inkle/ink) - interactive narration engine with export to HTML5 and json
 - [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) yet another fantasy console
